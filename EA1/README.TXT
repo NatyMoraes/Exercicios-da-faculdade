@@ -11,10 +11,3 @@ A diferença entre o maior número e o menor número é 14.
 Quantidade de números pares informados: 1.
 FIM DO PROGRAMA
 ------------------------------------------------------------------------
-
-TITULO DO PROJETO:
-OBJETIVO DO PROJETO:
-VERSÃO ou DATA:
-COMO INICIAR O PROJETO:
-AUTORES:
-INSTRUÇÕES PARA O USUÁRIO:
