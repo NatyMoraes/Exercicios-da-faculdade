@@ -1,7 +1,15 @@
 ----------------------------------------------------------------------------
-Este é o arquivo README do projeto. Você deve descrever aqui o seu projeto.
-Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
-ele/ela precisa saber. Os comentários devem incluir, pelo menos:
+Este programa solicita três números inteiros.
+Digite o primeiro número:
+23
+Digite o segundo número:
+9
+Digite o terceiro número:
+16
+
+A diferença entre o maior número e o menor número é 14.
+Quantidade de números pares informados: 1.
+FIM DO PROGRAMA
 ------------------------------------------------------------------------
 
 TITULO DO PROJETO:
