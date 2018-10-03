@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MinhasFuncoes
+comment0.text=\n\ Generico\n\ \ \ \ \ public\ static\ tipo\ metodo\ (parametros)\n\ \ \ \ {\n\ \ \ \ \ \ \ \ tipo\ variavel;\n\ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ funcoes/calculos/etc...\n\ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ return\ variavel;\n\ \ \ \ }\n
+comment1.params=a\ b\ c
+comment1.target=double\ calculaMedia(int,\ int,\ int)
+comment2.params=a\ b\ c
+comment2.target=int\ verificaMaior(int,\ int,\ int)
+comment3.params=a\ b\ c
+comment3.target=int\ verificaMenor(int,\ int,\ int)
+comment4.params=larguraCasa\ comprimentoCasa\ larguraTerreno\ comprimentoTerreno
+comment4.target=double\ calculaArea(double,\ double,\ double,\ double)
+comment5.params=a\ b\ c
+comment5.target=int\ verificaPar(int,\ int,\ int)
+numComments=6
