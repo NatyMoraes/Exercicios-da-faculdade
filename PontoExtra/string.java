@@ -42,7 +42,6 @@ import java.util.List;
  
 public class string {
       public static void main(String[] args){
-        Scanner ler = new Scanner(System.in);
         Scanner teclado = new Scanner(System.in);
 
         System.out.printf("\nInforme o DNA Completo:\n");
